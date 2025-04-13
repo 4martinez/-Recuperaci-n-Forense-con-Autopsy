@@ -4,7 +4,7 @@
 **Fecha:** Abril 2025  
 **Herramienta utilizada:** Autopsy v4.17.0  
 **Tipo de fuente:** Imagen forense de disco (`image.dd`)  
-**Entorno:** Laboratorio simulado – Bootcamp de Ciberseguridad
+**Entorno:** Laboratorio simulado 
 
 ---
 
@@ -75,4 +75,8 @@ Autopsy demostró ser eficaz para entornos educativos y prácticos. Su facilidad
 ## 📎 Nota
 
 Este proyecto fue desarrollado con fines educativos, en entorno simulado, como parte de un ejercicio práctico de análisis forense digital. No contiene datos reales ni evidencia de casos reales.
+
+---
+
+Este proyecto fue realizado como parte de un proceso formativo. La máquina analizada es de acceso público y el contenido aquí compartido es de elaboración propia, con fines educativos y demostrativos.
 
